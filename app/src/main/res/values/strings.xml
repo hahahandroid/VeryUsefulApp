@@ -1,0 +1,54 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Kaomoji Test</string>
+
+    <string name="question">Now what in this kaomoji do you see?</string>
+
+    <string name="question1">1. (づ￣ ³￣)づ</string>
+    <string name="answer1_1">Dance</string>
+    <string name="answer1_2">Huggs</string>
+    <string name="answer1_3">Sleep</string>
+
+    <string name="question2">2. ヽ(￣д￣;)ノ=3=3=3</string>
+    <string name="answer2_1">Run</string>
+    <string name="answer2_2">Workout</string>
+    <string name="answer2_3">Lactose Intolerance</string>
+
+    <string name="question3">3. (=^･ω･^=)</string>
+    <string name="answer3_1">Fish</string>
+    <string name="answer3_2">Hamster</string>
+    <string name="answer3_3">Kitty cat</string>
+
+    <string name="question4">4. (`⌒*)O-(`⌒´Q)</string>
+    <string name="answer4_1">Dentist</string>
+    <string name="answer4_2">Fight</string>
+    <string name="answer4_3">Makeup artist</string>
+
+    <string name="question5">5. (〜￣▽￣)〜</string>
+    <string name="answer5_1">Dance</string>
+    <string name="answer5_2">Attack</string>
+    <string name="answer5_3">Spell</string>
+
+    <string name="question6">6. (╮°-°)╮┳━━┳ ( ╯°□°)╯ ┻━━┻</string>
+    <string name="answer6_1"> Chill</string>
+    <string name="answer6_2">Angry a little</string>
+    <string name="answer6_3">Fury</string>
+    <string name="answer6_4">You, when you can\'t fix app bug</string>
+
+    <string name="questionEdit">7. ( ˘⌣˘)♡(˘⌣˘ )</string>
+    <string name="hintEdit">Main felling</string>
+
+    <string name="questionCheckBox">Ok! First pick up \"bro\" kaomoji </string>
+    <string name="questionCheckBox1">ヾ(・ω・)メ(・ω・)ノ</string>
+    <string name="questionCheckBox2">ヽ( ⌒ω⌒)人(=^‥^= )ﾉ</string>
+    <string name="questionCheckBox3">(¬_¬\'\')ԅ(￣ε￣ԅ)</string>
+    <string name="questionCheckBox4">∠( ᐛ 」∠)＿</string>
+    <string name="questionCheckBox5">(*^ω^)八(⌒▽⌒)八(-‿‿- )ヽ</string>
+    <string name="questionCheckBox6">(☞°ヮ°)☞ ☜(°ヮ°☜)</string>
+
+    <string name="resultTextButton">See the result</string>
+
+    <string name="allQuestionsHint">Please answer all questions :3</string>
+
+    <string name="resultMessage">Congratulations! Your score is <xliff:g example="8" id="score">%s</xliff:g>/<xliff:g example="8" id="total">%s</xliff:g>\nGreat job!\nThank you and come again :3"</string>
+
+</resources>

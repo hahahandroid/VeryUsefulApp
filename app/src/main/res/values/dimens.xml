@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="questionMarginV">16dp</dimen>
+    <dimen name="answerMargin">8dp</dimen>
+    <dimen name="answerTextSize">14sp</dimen>
+    <dimen name="buttonTextSize">14dp</dimen>
+    <dimen name="paddingLinear">16dp</dimen>
+</resources>
