@@ -1,4 +1,4 @@
-package com.example.android.test;
+package com.hahahandroid.kaomoji.test;
 
 import org.junit.Test;
 

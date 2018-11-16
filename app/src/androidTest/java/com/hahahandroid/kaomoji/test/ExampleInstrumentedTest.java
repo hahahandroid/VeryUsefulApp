@@ -1,4 +1,4 @@
-package com.example.android.test;
+package com.hahahandroid.kaomoji.test;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
